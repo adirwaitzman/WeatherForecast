@@ -1,0 +1,52 @@
+2024-03-04 12:10:32,720 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 12:10:32,720 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 12:10:32,731 - INFO -  * Restarting with stat
+2024-03-04 12:10:32,928 - WARNING -  * Debugger is active!
+2024-03-04 12:10:32,964 - INFO -  * Debugger PIN: 366-295-968
+2024-03-04 12:10:56,470 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 12:10:56,470 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 12:10:56,477 - INFO -  * Restarting with stat
+2024-03-04 12:10:56,629 - WARNING -  * Debugger is active!
+2024-03-04 12:10:56,629 - INFO -  * Debugger PIN: 366-295-968
+2024-03-04 12:12:21,622 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 12:12:21,623 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 12:12:21,629 - INFO -  * Restarting with stat
+2024-03-04 12:12:21,777 - WARNING -  * Debugger is active!
+2024-03-04 12:12:21,777 - INFO -  * Debugger PIN: 366-295-968
+2024-03-04 12:14:38,217 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 12:14:38,217 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 12:14:38,218 - INFO -  * Restarting with stat
+2024-03-04 12:14:38,378 - WARNING -  * Debugger is active!
+2024-03-04 12:14:38,378 - INFO -  * Debugger PIN: 366-295-968
+2024-03-04 12:15:49,499 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 12:15:49,499 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 12:15:49,499 - INFO -  * Restarting with stat
+2024-03-04 12:15:49,662 - WARNING -  * Debugger is active!
+2024-03-04 12:15:49,663 - INFO -  * Debugger PIN: 366-295-968
+2024-03-04 12:17:07,349 - INFO - 127.0.0.1 - - [04/Mar/2024 12:17:07] "GET / HTTP/1.1" 200 -
+2024-03-04 12:17:08,001 - INFO - 127.0.0.1 - - [04/Mar/2024 12:17:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-04 12:17:31,750 - INFO - 127.0.0.1 - - [04/Mar/2024 12:17:31] "POST / HTTP/1.1" 200 -
+2024-03-04 12:17:41,354 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-03-04 12:17:41,963 - INFO - 127.0.0.1 - - [04/Mar/2024 12:17:41] "POST /dynamodb HTTP/1.1" 200 -
+2024-03-04 12:19:16,945 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 12:19:16,945 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 12:19:16,945 - INFO -  * Restarting with stat
+2024-03-04 12:19:17,108 - WARNING -  * Debugger is active!
+2024-03-04 12:19:17,108 - INFO -  * Debugger PIN: 366-295-968
+2024-03-04 12:19:26,190 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-03-04 12:19:26,774 - INFO - 127.0.0.1 - - [04/Mar/2024 12:19:26] "POST /dynamodb HTTP/1.1" 200 -
+2024-03-04 12:19:32,172 - INFO - 127.0.0.1 - - [04/Mar/2024 12:19:32] "GET / HTTP/1.1" 200 -
+2024-03-04 12:19:39,556 - INFO - Bat Yam
+2024-03-04 12:19:39,557 - INFO - 127.0.0.1 - - [04/Mar/2024 12:19:39] "POST / HTTP/1.1" 200 -
+2024-03-04 13:20:44,083 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 13:20:44,083 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 13:20:44,083 - INFO -  * Restarting with stat
+2024-03-04 13:20:44,247 - WARNING -  * Debugger is active!
+2024-03-04 13:20:44,247 - INFO -  * Debugger PIN: 366-295-968

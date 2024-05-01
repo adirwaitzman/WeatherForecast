@@ -1,0 +1,270 @@
+2024-03-04 13:21:23,160 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 13:21:23,160 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 13:21:23,160 - INFO -  * Restarting with stat
+2024-03-04 13:21:23,324 - WARNING -  * Debugger is active!
+2024-03-04 13:21:23,325 - INFO -  * Debugger PIN: 366-295-968
+2024-03-04 18:30:43,633 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 18:30:43,633 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 18:30:43,633 - INFO -  * Restarting with stat
+2024-03-04 18:30:43,802 - WARNING -  * Debugger is active!
+2024-03-04 18:30:43,802 - INFO -  * Debugger PIN: 366-295-968
+2024-03-04 18:31:39,681 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 18:31:39,681 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 18:31:39,682 - INFO -  * Restarting with stat
+2024-03-04 18:31:39,845 - WARNING -  * Debugger is active!
+2024-03-04 18:31:39,845 - INFO -  * Debugger PIN: 366-295-968
+2024-03-04 18:31:50,769 - INFO - 127.0.0.1 - - [04/Mar/2024 18:31:50] "GET / HTTP/1.1" 200 -
+2024-03-04 18:31:51,543 - INFO - 127.0.0.1 - - [04/Mar/2024 18:31:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-04 18:31:54,946 - ERROR - location_input
+2024-03-04 18:31:54,946 - INFO - 127.0.0.1 - - [04/Mar/2024 18:31:54] "POST / HTTP/1.1" 200 -
+2024-03-04 18:32:36,126 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 18:32:36,126 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 18:32:36,127 - INFO -  * Restarting with stat
+2024-03-04 18:32:36,288 - WARNING -  * Debugger is active!
+2024-03-04 18:32:36,288 - INFO -  * Debugger PIN: 366-295-968
+2024-03-04 18:32:42,142 - INFO - Bat Yam
+2024-03-04 18:32:42,146 - INFO - 127.0.0.1 - - [04/Mar/2024 18:32:42] "POST / HTTP/1.1" 200 -
+2024-03-04 18:32:46,376 - INFO - Bat Yam
+2024-03-04 18:32:46,377 - INFO - 127.0.0.1 - - [04/Mar/2024 18:32:46] "POST / HTTP/1.1" 200 -
+2024-03-04 18:32:49,392 - INFO - Adir
+2024-03-04 18:32:49,393 - INFO - 127.0.0.1 - - [04/Mar/2024 18:32:49] "POST / HTTP/1.1" 200 -
+2024-03-04 18:32:59,070 - INFO - 127.0.0.1 - - [04/Mar/2024 18:32:59] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-03-04 18:32:59,090 - INFO - 127.0.0.1 - - [04/Mar/2024 18:32:59] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-03-04 18:32:59,090 - INFO - 127.0.0.1 - - [04/Mar/2024 18:32:59] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-03-04 18:32:59,095 - INFO - 127.0.0.1 - - [04/Mar/2024 18:32:59] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-03-04 18:32:59,096 - INFO - 127.0.0.1 - - [04/Mar/2024 18:32:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-03-04 18:36:08,151 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 18:36:08,151 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 18:36:08,151 - INFO -  * Restarting with stat
+2024-03-04 18:36:08,313 - WARNING -  * Debugger is active!
+2024-03-04 18:36:08,313 - INFO -  * Debugger PIN: 366-295-968
+2024-03-04 18:36:12,360 - INFO - 127.0.0.1 - - [04/Mar/2024 18:36:12] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-03-04 18:36:12,375 - INFO - 127.0.0.1 - - [04/Mar/2024 18:36:12] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-03-04 18:36:12,375 - INFO - 127.0.0.1 - - [04/Mar/2024 18:36:12] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-03-04 18:36:12,383 - INFO - 127.0.0.1 - - [04/Mar/2024 18:36:12] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-03-04 18:36:33,809 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 18:36:33,809 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 18:36:33,809 - INFO -  * Restarting with stat
+2024-03-04 18:36:33,975 - WARNING -  * Debugger is active!
+2024-03-04 18:36:33,975 - INFO -  * Debugger PIN: 366-295-968
+2024-03-04 18:36:38,214 - INFO - 127.0.0.1 - - [04/Mar/2024 18:36:38] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-03-04 18:36:38,228 - INFO - 127.0.0.1 - - [04/Mar/2024 18:36:38] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-03-04 18:36:38,228 - INFO - 127.0.0.1 - - [04/Mar/2024 18:36:38] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-03-04 18:36:38,234 - INFO - 127.0.0.1 - - [04/Mar/2024 18:36:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-03-04 18:36:48,765 - INFO - 127.0.0.1 - - [04/Mar/2024 18:36:48] "GET / HTTP/1.1" 200 -
+2024-03-04 18:37:47,399 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 18:37:47,399 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 18:37:47,399 - INFO -  * Restarting with stat
+2024-03-04 18:37:47,567 - WARNING -  * Debugger is active!
+2024-03-04 18:37:47,567 - INFO -  * Debugger PIN: 366-295-968
+2024-03-04 18:37:49,826 - INFO - 127.0.0.1 - - [04/Mar/2024 18:37:49] "GET / HTTP/1.1" 200 -
+2024-03-04 18:37:57,847 - INFO - Bat Yam
+2024-03-04 18:37:57,848 - INFO - 127.0.0.1 - - [04/Mar/2024 18:37:57] "POST / HTTP/1.1" 200 -
+2024-03-04 18:38:03,141 - INFO - Adir
+2024-03-04 18:38:03,142 - INFO - 127.0.0.1 - - [04/Mar/2024 18:38:03] "POST / HTTP/1.1" 200 -
+2024-03-04 18:38:09,189 - INFO - 127.0.0.1 - - [04/Mar/2024 18:38:09] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-03-04 18:38:09,206 - INFO - 127.0.0.1 - - [04/Mar/2024 18:38:09] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-03-04 18:38:09,206 - INFO - 127.0.0.1 - - [04/Mar/2024 18:38:09] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-03-04 18:38:09,217 - INFO - 127.0.0.1 - - [04/Mar/2024 18:38:09] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-03-04 18:38:16,316 - INFO - 127.0.0.1 - - [04/Mar/2024 18:38:16] "GET / HTTP/1.1" 200 -
+2024-03-04 18:38:18,741 - INFO - 127.0.0.1 - - [04/Mar/2024 18:38:18] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-03-04 18:38:18,753 - INFO - 127.0.0.1 - - [04/Mar/2024 18:38:18] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-03-04 18:38:18,756 - INFO - 127.0.0.1 - - [04/Mar/2024 18:38:18] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-03-04 18:38:18,760 - INFO - 127.0.0.1 - - [04/Mar/2024 18:38:18] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-03-04 18:38:35,872 - INFO - 127.0.0.1 - - [04/Mar/2024 18:38:35] "GET / HTTP/1.1" 200 -
+2024-03-04 18:39:28,696 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 18:39:28,696 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 18:39:28,696 - INFO -  * Restarting with stat
+2024-03-04 18:39:28,857 - WARNING -  * Debugger is active!
+2024-03-04 18:39:28,857 - INFO -  * Debugger PIN: 366-295-968
+2024-03-04 18:39:33,125 - INFO - 127.0.0.1 - - [04/Mar/2024 18:39:33] "GET / HTTP/1.1" 200 -
+2024-03-04 18:39:35,826 - INFO - Adir
+2024-03-04 18:39:35,826 - INFO - 127.0.0.1 - - [04/Mar/2024 18:39:35] "POST / HTTP/1.1" 200 -
+2024-03-04 18:39:42,635 - INFO - Holon
+2024-03-04 18:39:42,635 - INFO - 127.0.0.1 - - [04/Mar/2024 18:39:42] "POST / HTTP/1.1" 200 -
+2024-03-04 18:39:47,508 - INFO - 127.0.0.1 - - [04/Mar/2024 18:39:47] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-03-04 18:39:47,521 - INFO - 127.0.0.1 - - [04/Mar/2024 18:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-03-04 18:39:47,522 - INFO - 127.0.0.1 - - [04/Mar/2024 18:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-03-04 18:39:47,528 - INFO - 127.0.0.1 - - [04/Mar/2024 18:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-03-04 18:41:27,486 - INFO -  * Detected change in '/home/adir/WeatherForecast-git/WeatherForecast-app/Weather_Forecast_BackEnd.py', reloading
+2024-03-04 18:41:27,511 - INFO -  * Restarting with stat
+2024-03-04 18:41:29,614 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 18:41:29,614 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 18:41:29,614 - INFO -  * Restarting with stat
+2024-03-04 18:41:29,776 - WARNING -  * Debugger is active!
+2024-03-04 18:41:29,777 - INFO -  * Debugger PIN: 366-295-968
+2024-03-04 18:41:31,931 - INFO - 127.0.0.1 - - [04/Mar/2024 18:41:31] "GET / HTTP/1.1" 200 -
+2024-03-04 18:41:34,922 - INFO - Adir
+2024-03-04 18:41:34,922 - INFO - 127.0.0.1 - - [04/Mar/2024 18:41:34] "POST / HTTP/1.1" 200 -
+2024-03-04 18:41:41,501 - INFO - London
+2024-03-04 18:41:41,501 - INFO - 127.0.0.1 - - [04/Mar/2024 18:41:41] "POST / HTTP/1.1" 200 -
+2024-03-04 18:41:45,916 - ERROR - location_input
+2024-03-04 18:41:45,917 - INFO - 127.0.0.1 - - [04/Mar/2024 18:41:45] "POST / HTTP/1.1" 200 -
+2024-03-04 18:42:21,062 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-04 18:42:21,062 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-04 18:42:21,062 - INFO -  * Restarting with stat
+2024-03-04 18:42:21,223 - WARNING -  * Debugger is active!
+2024-03-04 18:42:21,223 - INFO -  * Debugger PIN: 366-295-968
+2024-03-04 18:42:24,741 - INFO - 127.0.0.1 - - [04/Mar/2024 18:42:24] "GET / HTTP/1.1" 200 -
+2024-03-04 18:42:29,189 - ERROR - ddddd
+2024-03-04 18:42:29,189 - INFO - 127.0.0.1 - - [04/Mar/2024 18:42:29] "POST / HTTP/1.1" 200 -
+2024-03-04 18:42:36,276 - INFO - 127.0.0.1 - - [04/Mar/2024 18:42:36] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-03-04 18:42:36,291 - INFO - 127.0.0.1 - - [04/Mar/2024 18:42:36] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-03-04 18:42:36,292 - INFO - 127.0.0.1 - - [04/Mar/2024 18:42:36] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-03-04 18:42:36,298 - INFO - 127.0.0.1 - - [04/Mar/2024 18:42:36] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-03-04 18:42:44,776 - ERROR - ddedwecwecewcd
+2024-03-04 18:42:44,776 - INFO - 127.0.0.1 - - [04/Mar/2024 18:42:44] "POST / HTTP/1.1" 200 -
+2024-04-16 10:42:57,888 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 10:42:57,888 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 10:42:57,889 - INFO -  * Restarting with stat
+2024-04-16 10:42:58,048 - WARNING -  * Debugger is active!
+2024-04-16 10:42:58,048 - INFO -  * Debugger PIN: 165-806-537
+2024-04-16 10:43:15,351 - INFO - 127.0.0.1 - - [16/Apr/2024 10:43:15] "GET / HTTP/1.1" 200 -
+2024-04-16 10:43:15,820 - INFO - 127.0.0.1 - - [16/Apr/2024 10:43:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-16 10:54:56,276 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 10:54:56,276 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 10:54:56,277 - INFO -  * Restarting with stat
+2024-04-16 10:54:56,441 - WARNING -  * Debugger is active!
+2024-04-16 10:54:56,442 - INFO -  * Debugger PIN: 165-806-537
+2024-04-16 10:55:43,551 - INFO - 127.0.0.1 - - [16/Apr/2024 10:55:43] "GET / HTTP/1.1" 200 -
+2024-04-16 10:55:48,095 - INFO - Bat Yam
+2024-04-16 10:55:48,105 - INFO - 127.0.0.1 - - [16/Apr/2024 10:55:48] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-16 10:55:48,122 - INFO - 127.0.0.1 - - [16/Apr/2024 10:55:48] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-04-16 10:55:48,122 - INFO - 127.0.0.1 - - [16/Apr/2024 10:55:48] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-04-16 10:55:48,127 - INFO - 127.0.0.1 - - [16/Apr/2024 10:55:48] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-04-16 10:55:48,128 - INFO - 127.0.0.1 - - [16/Apr/2024 10:55:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-16 10:57:55,758 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 10:57:55,758 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 10:57:55,758 - INFO -  * Restarting with stat
+2024-04-16 10:57:55,915 - WARNING -  * Debugger is active!
+2024-04-16 10:57:55,915 - INFO -  * Debugger PIN: 165-806-537
+2024-04-16 10:58:05,644 - INFO - 127.0.0.1 - - [16/Apr/2024 10:58:05] "GET / HTTP/1.1" 200 -
+2024-04-16 10:58:10,592 - INFO - Bat Yam
+2024-04-16 10:58:10,594 - INFO - 127.0.0.1 - - [16/Apr/2024 10:58:10] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-16 10:58:10,607 - INFO - 127.0.0.1 - - [16/Apr/2024 10:58:10] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-16 10:58:10,608 - INFO - 127.0.0.1 - - [16/Apr/2024 10:58:10] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-16 10:58:10,614 - INFO - 127.0.0.1 - - [16/Apr/2024 10:58:10] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-16 10:58:13,948 - INFO - 127.0.0.1 - - [16/Apr/2024 10:58:13] "GET / HTTP/1.1" 200 -
+2024-04-16 11:53:35,791 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 11:53:35,792 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 11:53:35,792 - INFO -  * Restarting with stat
+2024-04-16 11:53:35,951 - WARNING -  * Debugger is active!
+2024-04-16 11:53:35,952 - INFO -  * Debugger PIN: 165-806-537
+2024-04-16 11:53:41,510 - INFO - 127.0.0.1 - - [16/Apr/2024 11:53:41] "GET / HTTP/1.1" 200 -
+2024-04-16 11:53:44,603 - INFO - Bat Yam
+2024-04-16 11:53:44,611 - INFO - 127.0.0.1 - - [16/Apr/2024 11:53:44] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-16 11:53:44,627 - INFO - 127.0.0.1 - - [16/Apr/2024 11:53:44] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-04-16 11:53:44,627 - INFO - 127.0.0.1 - - [16/Apr/2024 11:53:44] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-04-16 11:53:44,637 - INFO - 127.0.0.1 - - [16/Apr/2024 11:53:44] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-16 11:54:34,240 - INFO -  * Detected change in '/home/adir/WeatherForecast-git/WeatherForecast-app/Weather_Forecast_Flask.py', reloading
+2024-04-16 11:54:34,272 - INFO -  * Restarting with stat
+2024-04-16 11:54:34,434 - WARNING -  * Debugger is active!
+2024-04-16 11:54:34,434 - INFO -  * Debugger PIN: 165-806-537
+2024-04-16 11:54:36,077 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 11:54:36,077 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 11:54:36,077 - INFO -  * Restarting with stat
+2024-04-16 11:54:36,235 - WARNING -  * Debugger is active!
+2024-04-16 11:54:36,235 - INFO -  * Debugger PIN: 165-806-537
+2024-04-16 11:54:39,581 - INFO - Bat Yam
+2024-04-16 11:54:39,584 - INFO - 127.0.0.1 - - [16/Apr/2024 11:54:39] "POST / HTTP/1.1" 200 -
+2024-04-16 11:54:46,877 - INFO - Holon
+2024-04-16 11:54:46,878 - INFO - 127.0.0.1 - - [16/Apr/2024 11:54:46] "POST / HTTP/1.1" 200 -
+2024-04-16 11:54:50,895 - INFO - London
+2024-04-16 11:54:50,896 - INFO - 127.0.0.1 - - [16/Apr/2024 11:54:50] "POST / HTTP/1.1" 200 -
+2024-04-16 11:55:00,113 - INFO - 127.0.0.1 - - [16/Apr/2024 11:55:00] "GET /history HTTP/1.1" 200 -
+2024-04-16 11:55:02,039 - INFO - 127.0.0.1 - - [16/Apr/2024 11:55:02] "GET /download/history/London-United%20Kingdom-2024-04-16.json HTTP/1.1" 200 -
+2024-04-16 11:57:20,931 - INFO - London
+2024-04-16 11:57:20,937 - INFO - 127.0.0.1 - - [16/Apr/2024 11:57:20] "POST / HTTP/1.1" 200 -
+2024-04-16 11:57:22,907 - INFO - 127.0.0.1 - - [16/Apr/2024 11:57:22] "GET /history HTTP/1.1" 200 -
+2024-04-16 11:59:27,994 - INFO - London
+2024-04-16 11:59:27,997 - INFO - 127.0.0.1 - - [16/Apr/2024 11:59:27] "POST / HTTP/1.1" 200 -
+2024-04-16 11:59:40,494 - INFO - 127.0.0.1 - - [16/Apr/2024 11:59:40] "GET /history HTTP/1.1" 200 -
+2024-04-16 12:00:58,513 - INFO - London
+2024-04-16 12:00:58,515 - INFO - 127.0.0.1 - - [16/Apr/2024 12:00:58] "POST / HTTP/1.1" 200 -
+2024-04-16 12:01:46,335 - INFO - London
+2024-04-16 12:01:46,338 - INFO - 127.0.0.1 - - [16/Apr/2024 12:01:46] "POST / HTTP/1.1" 200 -
+2024-04-16 12:01:49,685 - INFO - London
+2024-04-16 12:01:49,686 - INFO - 127.0.0.1 - - [16/Apr/2024 12:01:49] "POST / HTTP/1.1" 200 -
+2024-04-16 12:02:30,663 - INFO - London
+2024-04-16 12:02:30,669 - INFO - 127.0.0.1 - - [16/Apr/2024 12:02:30] "POST / HTTP/1.1" 200 -
+2024-04-16 12:02:48,061 - INFO - London
+2024-04-16 12:02:48,064 - INFO - 127.0.0.1 - - [16/Apr/2024 12:02:48] "POST / HTTP/1.1" 200 -
+2024-04-16 12:03:05,919 - INFO - London
+2024-04-16 12:03:05,922 - INFO - 127.0.0.1 - - [16/Apr/2024 12:03:05] "POST / HTTP/1.1" 200 -
+2024-04-16 12:04:04,495 - INFO - London
+2024-04-16 12:04:04,498 - INFO - 127.0.0.1 - - [16/Apr/2024 12:04:04] "POST / HTTP/1.1" 200 -
+2024-04-16 12:04:20,901 - INFO - London
+2024-04-16 12:04:20,908 - INFO - 127.0.0.1 - - [16/Apr/2024 12:04:20] "POST / HTTP/1.1" 200 -
+2024-04-16 12:04:30,597 - INFO - 127.0.0.1 - - [16/Apr/2024 12:04:30] "[31m[1mPOST /history HTTP/1.1[0m" 405 -
+2024-04-16 12:04:44,046 - INFO - 127.0.0.1 - - [16/Apr/2024 12:04:44] "[31m[1mPOST /history HTTP/1.1[0m" 405 -
+2024-04-16 12:04:50,060 - INFO - 127.0.0.1 - - [16/Apr/2024 12:04:50] "[31m[1mPOST /history HTTP/1.1[0m" 405 -
+2024-04-16 12:04:55,383 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 12:04:55,383 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 12:04:55,383 - INFO -  * Restarting with stat
+2024-04-16 12:04:55,540 - WARNING -  * Debugger is active!
+2024-04-16 12:04:55,541 - INFO -  * Debugger PIN: 165-806-537
+2024-04-16 12:04:58,467 - INFO - London
+2024-04-16 12:04:58,471 - INFO - 127.0.0.1 - - [16/Apr/2024 12:04:58] "POST / HTTP/1.1" 200 -
+2024-04-16 12:05:00,585 - INFO - 127.0.0.1 - - [16/Apr/2024 12:05:00] "GET / HTTP/1.1" 200 -
+2024-04-16 12:05:07,063 - INFO - Holon
+2024-04-16 12:05:07,064 - INFO - 127.0.0.1 - - [16/Apr/2024 12:05:07] "POST / HTTP/1.1" 200 -
+2024-04-16 12:05:10,691 - INFO - Ni
+2024-04-16 12:05:10,691 - INFO - 127.0.0.1 - - [16/Apr/2024 12:05:10] "POST / HTTP/1.1" 200 -
+2024-04-16 12:05:13,017 - INFO - Ro
+2024-04-16 12:05:13,017 - INFO - 127.0.0.1 - - [16/Apr/2024 12:05:13] "POST / HTTP/1.1" 200 -
+2024-04-16 12:05:14,234 - INFO - 127.0.0.1 - - [16/Apr/2024 12:05:14] "[31m[1mPOST /history HTTP/1.1[0m" 405 -
+2024-04-16 12:07:56,110 - INFO - 127.0.0.1 - - [16/Apr/2024 12:07:56] "[31m[1mPOST /history HTTP/1.1[0m" 405 -
+2024-04-16 12:09:17,894 - INFO - Ro
+2024-04-16 12:09:17,897 - INFO - 127.0.0.1 - - [16/Apr/2024 12:09:17] "POST / HTTP/1.1" 200 -
+2024-04-16 12:09:18,510 - INFO - 127.0.0.1 - - [16/Apr/2024 12:09:18] "GET /history HTTP/1.1" 200 -
+2024-04-16 12:09:23,207 - INFO - 127.0.0.1 - - [16/Apr/2024 12:09:23] "GET /history HTTP/1.1" 200 -
+2024-04-16 12:39:16,604 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 12:39:16,604 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 12:39:16,604 - INFO -  * Restarting with stat
+2024-04-16 12:39:16,761 - WARNING -  * Debugger is active!
+2024-04-16 12:39:16,761 - INFO -  * Debugger PIN: 165-806-537
+2024-04-16 12:39:21,911 - INFO - 127.0.0.1 - - [16/Apr/2024 12:39:21] "GET / HTTP/1.1" 200 -
+2024-04-16 12:39:30,433 - INFO - Bat Yam
+2024-04-16 12:39:30,434 - INFO - 127.0.0.1 - - [16/Apr/2024 12:39:30] "POST / HTTP/1.1" 200 -
+2024-04-16 12:43:01,778 - INFO - 127.0.0.1 - - [16/Apr/2024 12:43:01] "GET / HTTP/1.1" 200 -
+2024-04-16 12:43:03,417 - INFO - 127.0.0.1 - - [16/Apr/2024 12:43:03] "GET / HTTP/1.1" 200 -
+2024-04-16 14:30:56,722 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 14:30:56,722 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 14:30:56,722 - INFO -  * Restarting with stat
+2024-04-16 14:30:56,878 - WARNING -  * Debugger is active!
+2024-04-16 14:30:56,878 - INFO -  * Debugger PIN: 165-806-537
+2024-04-16 14:31:04,251 - INFO - 127.0.0.1 - - [16/Apr/2024 14:31:04] "GET / HTTP/1.1" 200 -
+2024-04-16 14:57:39,431 - INFO - 127.0.0.1 - - [16/Apr/2024 14:57:39] "GET /history HTTP/1.1" 200 -
+2024-04-16 14:57:42,805 - INFO - 127.0.0.1 - - [16/Apr/2024 14:57:42] "GET /download/history/Ro-Italy-2024-04-16.json HTTP/1.1" 200 -
+2024-04-16 16:38:11,243 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 16:38:11,243 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 16:38:11,244 - INFO -  * Restarting with stat
+2024-04-16 16:38:11,420 - WARNING -  * Debugger is active!
+2024-04-16 16:38:11,420 - INFO -  * Debugger PIN: 165-806-537
+2024-04-16 16:38:16,775 - INFO - 127.0.0.1 - - [16/Apr/2024 16:38:16] "GET / HTTP/1.1" 200 -
+2024-04-16 16:38:19,790 - INFO - 127.0.0.1 - - [16/Apr/2024 16:38:19] "GET /history HTTP/1.1" 200 -
+2024-04-16 16:38:33,368 - INFO - 127.0.0.1 - - [16/Apr/2024 16:38:33] "GET /history HTTP/1.1" 200 -
+2024-04-16 16:38:34,715 - INFO - 127.0.0.1 - - [16/Apr/2024 16:38:34] "GET /download/history/Ni-Papua%20New%20Guinea-2024-04-16.json HTTP/1.1" 200 -
+2024-04-16 16:41:01,173 - INFO -  * Detected change in '/home/adir/WeatherForecast-git/WeatherForecast-app/Weather_Forecast_Flask.py', reloading
+2024-04-16 16:41:01,201 - INFO -  * Restarting with stat
+2024-04-16 16:41:01,390 - WARNING -  * Debugger is active!
+2024-04-16 16:41:01,390 - INFO -  * Debugger PIN: 165-806-537
